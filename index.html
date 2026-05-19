@@ -18,26 +18,33 @@
         }
         header h1 { font-size: 28px; margin-bottom: 8px; }
         header p { opacity: 0.9; font-size: 14px; }
+        .info-box {
+            background: #e8f4fd; border-radius: 10px; padding: 14px 18px;
+            margin-bottom: 20px; font-size: 14px; color: #1a73e8;
+            border: 1px solid #cce5ff;
+        }
         .article-list { list-style: none; }
         .article-item {
             background: white; border-radius: 10px; padding: 16px 20px;
             margin-bottom: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.08);
-            transition: transform 0.2s;
         }
-        .article-item:hover { transform: translateY(-2px); }
         .article-item a {
             color: #333; text-decoration: none; font-size: 16px;
             font-weight: 500; display: block;
         }
         .article-item a:hover { color: #667eea; }
         .article-item .meta { font-size: 12px; color: #999; margin-top: 4px; }
+        .article-item .gh-link {
+            font-size: 12px; margin-top: 6px;
+        }
+        .article-item .gh-link a { color: #666; font-weight: normal; display: inline; }
+        .article-item .gh-link a:hover { color: #667eea; }
         .graph-link {
             display: block; text-align: center; padding: 16px;
             background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%);
-            border-radius: 10px; color: white; text-decoration: none;
+            border-radius: 10px; color: #333; text-decoration: none;
             font-size: 16px; font-weight: 500; margin-top: 24px;
         }
-        .graph-link:hover { opacity: 0.9; }
         footer {
             text-align: center; padding: 20px; color: #999; font-size: 12px; margin-top: 40px;
         }
@@ -47,52 +54,55 @@
     <div class="container">
         <header>
             <h1>📚 LLM Wiki</h1>
-            <p>个人知识管理系统</p>
+            <p>个人知识库</p>
         </header>
+        <div class="info-box">
+            💡 点击文章名称在 GitHub 上阅读（自动渲染 Markdown），手机体验最佳
+        </div>
         <ul class="article-list">
             <li class="article-item">
-                <a href="sources/Cron-定时任务配置与排障手册.md">Cron-定时任务配置与排障手册</a>
+                <a href="https://github.com/wanghl-chris/llm-wiki/blob/master/sources/Cron-定时任务配置与排障手册.md" target="_blank">Cron-定时任务配置与排障手册</a>
                 <div class="meta">📄 文章</div>
             </li>
             <li class="article-item">
-                <a href="sources/LLM-Wiki-系统架构与使用说明.md">LLM-Wiki-系统架构与使用说明</a>
+                <a href="https://github.com/wanghl-chris/llm-wiki/blob/master/sources/LLM-Wiki-系统架构与使用说明.md" target="_blank">LLM-Wiki-系统架构与使用说明</a>
                 <div class="meta">📄 文章</div>
             </li>
             <li class="article-item">
-                <a href="sources/claude-code-使用经验与配置指南.md">claude-code-使用经验与配置指南</a>
+                <a href="https://github.com/wanghl-chris/llm-wiki/blob/master/sources/claude-code-使用经验与配置指南.md" target="_blank">claude-code-使用经验与配置指南</a>
                 <div class="meta">📄 文章</div>
             </li>
             <li class="article-item">
-                <a href="sources/hermes-agent-llm-wiki-自动化部署可执行剧本（v3.0）.md">hermes-agent-llm-wiki-自动化部署可执行剧本（v3.0）</a>
+                <a href="https://github.com/wanghl-chris/llm-wiki/blob/master/sources/hermes-agent-llm-wiki-自动化部署可执行剧本（v3.0）.md" target="_blank">hermes-agent-llm-wiki-自动化部署可执行剧本（v3.0）</a>
                 <div class="meta">📄 文章</div>
             </li>
             <li class="article-item">
-                <a href="sources/hermes-agent-v0.9.0-升级至-v0.13.0-完整执行指南.md">hermes-agent-v0.9.0-升级至-v0.13.0-完整执行指南</a>
+                <a href="https://github.com/wanghl-chris/llm-wiki/blob/master/sources/hermes-agent-v0.9.0-升级至-v0.13.0-完整执行指南.md" target="_blank">hermes-agent-v0.9.0-升级至-v0.13.0-完整执行指南</a>
                 <div class="meta">📄 文章</div>
             </li>
             <li class="article-item">
-                <a href="sources/hos-platform-frontend-migration-guide.md">hos-platform-frontend-migration-guide</a>
+                <a href="https://github.com/wanghl-chris/llm-wiki/blob/master/sources/hos-platform-frontend-migration-guide.md" target="_blank">hos-platform-frontend-migration-guide</a>
                 <div class="meta">📄 文章</div>
             </li>
             <li class="article-item">
-                <a href="sources/llm-wiki工作流程验证测试结论.md">llm-wiki工作流程验证测试结论</a>
+                <a href="https://github.com/wanghl-chris/llm-wiki/blob/master/sources/llm-wiki工作流程验证测试结论.md" target="_blank">llm-wiki工作流程验证测试结论</a>
                 <div class="meta">📄 文章</div>
             </li>
             <li class="article-item">
-                <a href="sources/macos-本地搭建-hermes-llm-wiki-知识库完整指南.md">macos-本地搭建-hermes-llm-wiki-知识库完整指南</a>
+                <a href="https://github.com/wanghl-chris/llm-wiki/blob/master/sources/macos-本地搭建-hermes-llm-wiki-知识库完整指南.md" target="_blank">macos-本地搭建-hermes-llm-wiki-知识库完整指南</a>
                 <div class="meta">📄 文章</div>
             </li>
             <li class="article-item">
-                <a href="sources/中间件学习资料Wiki.md">中间件学习资料Wiki</a>
+                <a href="https://github.com/wanghl-chris/llm-wiki/blob/master/sources/中间件学习资料Wiki.md" target="_blank">中间件学习资料Wiki</a>
                 <div class="meta">📄 文章</div>
             </li>
             <li class="article-item">
-                <a href="sources/飞书集成配置指南.md">飞书集成配置指南</a>
+                <a href="https://github.com/wanghl-chris/llm-wiki/blob/master/sources/飞书集成配置指南.md" target="_blank">飞书集成配置指南</a>
                 <div class="meta">📄 文章</div>
             </li>
         </ul>
-        <a class="graph-link" href="graph/graph.html">🕸️ 查看知识图谱</a>
-        <footer>LLM Wiki · 最后更新: 2026-05-19</footer>
+        <a class="graph-link" href="graph/graph.html" target="_blank">🕸️ 查看知识图谱</a>
+        <footer>LLM Wiki · <a href="https://github.com/wanghl-chris/llm-wiki" style="color:#999;">GitHub 仓库</a> · 2026-05-19</footer>
     </div>
 </body>
 </html>
