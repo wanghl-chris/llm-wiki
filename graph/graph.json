@@ -1,0 +1,971 @@
+{
+  "meta": {
+    "generated_at": "2026-05-19T15:36:27.950743",
+    "total_pages": 10,
+    "total_keywords": 55,
+    "total_edges": 66
+  },
+  "nodes": [
+    {
+      "id": "Cron-定时任务配置与排障手册",
+      "name": "Cron 定时任务配置与排障手册",
+      "type": "page",
+      "category": "article",
+      "size": 2628,
+      "keywords": [
+        "Cron",
+        "定时任务",
+        "飞书",
+        "排障",
+        "Mac 休眠",
+        "DNS"
+      ],
+      "filePath": "/Users/wanghongliang/llm-wiki-project/llm-wiki-agent/wiki/sources/Cron-定时任务配置与排障手册.md"
+    },
+    {
+      "id": "LLM-Wiki-系统架构与使用说明",
+      "name": "LLM Wiki 系统架构与使用说明",
+      "type": "page",
+      "category": "article",
+      "size": 3207,
+      "keywords": [
+        "LLM Wiki",
+        "知识库",
+        "系统架构",
+        "使用指南",
+        "知识图谱"
+      ],
+      "filePath": "/Users/wanghongliang/llm-wiki-project/llm-wiki-agent/wiki/sources/LLM-Wiki-系统架构与使用说明.md"
+    },
+    {
+      "id": "claude-code-使用经验与配置指南",
+      "name": "Claude Code 使用经验与配置指南",
+      "type": "page",
+      "category": "article",
+      "size": 2892,
+      "keywords": [
+        "claude-code",
+        "模型配置",
+        "开发工具",
+        "第三方模型接入",
+        "JSON5"
+      ],
+      "filePath": "/Users/wanghongliang/llm-wiki-project/llm-wiki-agent/wiki/sources/claude-code-使用经验与配置指南.md"
+    },
+    {
+      "id": "hermes-agent-llm-wiki-自动化部署可执行剧本（v3.0）",
+      "name": "Hermes Agent LLM Wiki 自动化部署可执行剧本（v3.0）",
+      "type": "page",
+      "category": "article",
+      "size": 2506,
+      "keywords": [
+        "Hermes Agent",
+        "LLM Wiki 自动化部署",
+        "火山引擎 Coding Plan",
+        "可执行部署剧本",
+        "macOS 部署"
+      ],
+      "filePath": "/Users/wanghongliang/llm-wiki-project/llm-wiki-agent/wiki/sources/hermes-agent-llm-wiki-自动化部署可执行剧本（v3.0）.md"
+    },
+    {
+      "id": "hermes-agent-v0.9.0-升级至-v0.13.0-完整执行指南",
+      "name": "Hermes Agent v0.9.0 升级至 v0.13.0 完整执行指南",
+      "type": "page",
+      "category": "article",
+      "size": 5726,
+      "keywords": [
+        "Hermes Agent",
+        "版本升级",
+        "v0.13.0",
+        "Git分支管理",
+        "冲突解决",
+        "自定义代码迁移"
+      ],
+      "filePath": "/Users/wanghongliang/llm-wiki-project/llm-wiki-agent/wiki/sources/hermes-agent-v0.9.0-升级至-v0.13.0-完整执行指南.md"
+    },
+    {
+      "id": "hos-platform-frontend-migration-guide",
+      "name": "HOS 平台前端工程迁移与 Bug 修复完整指南",
+      "type": "page",
+      "category": "article",
+      "size": 23081,
+      "keywords": [
+        "HOS 平台",
+        "前端迁移",
+        "工程迁移",
+        "Git 分支",
+        "ECharts",
+        "路由配置"
+      ],
+      "filePath": "/Users/wanghongliang/llm-wiki-project/llm-wiki-agent/wiki/sources/hos-platform-frontend-migration-guide.md"
+    },
+    {
+      "id": "llm-wiki工作流程验证测试结论",
+      "name": "LLM Wiki工作流程验证测试结论",
+      "type": "page",
+      "category": "article",
+      "size": 1160,
+      "keywords": [
+        "LLM Wiki",
+        "知识结构化",
+        "自动化知识管理"
+      ],
+      "filePath": "/Users/wanghongliang/llm-wiki-project/llm-wiki-agent/wiki/sources/llm-wiki工作流程验证测试结论.md"
+    },
+    {
+      "id": "macos-本地搭建-hermes-llm-wiki-知识库完整指南",
+      "name": "macOS 本地搭建 Hermes LLM Wiki 知识库完整指南",
+      "type": "page",
+      "category": "article",
+      "size": 4105,
+      "keywords": [
+        "Hermes LLM Wiki",
+        "知识库搭建",
+        "macOS 部署",
+        "个人知识管理",
+        "交互式知识系统",
+        "飞书集成"
+      ],
+      "filePath": "/Users/wanghongliang/llm-wiki-project/llm-wiki-agent/wiki/sources/macos-本地搭建-hermes-llm-wiki-知识库完整指南.md"
+    },
+    {
+      "id": "中间件学习资料Wiki",
+      "name": "中间件学习资料Wiki",
+      "type": "page",
+      "category": "article",
+      "size": 7827,
+      "keywords": [
+        "中间件",
+        "面试",
+        "RocketMQ",
+        "Kafka",
+        "Dubbo",
+        "ZooKeeper",
+        "Redis",
+        "Elasticsearch",
+        "分布式缓存",
+        "消息队列",
+        "RPC框架",
+        "分库分表"
+      ],
+      "filePath": "/Users/wanghongliang/llm-wiki-project/llm-wiki-agent/wiki/sources/中间件学习资料Wiki.md"
+    },
+    {
+      "id": "飞书集成配置指南",
+      "name": "飞书集成配置指南",
+      "type": "page",
+      "category": "article",
+      "size": 3195,
+      "keywords": [
+        "飞书",
+        "集成",
+        "配置",
+        "机器人",
+        "消息推送",
+        "Hermes Agent"
+      ],
+      "filePath": "/Users/wanghongliang/llm-wiki-project/llm-wiki-agent/wiki/sources/飞书集成配置指南.md"
+    },
+    {
+      "id": "kw:Kafka",
+      "name": "Kafka",
+      "type": "keyword",
+      "category": "keyword",
+      "size": 500
+    },
+    {
+      "id": "kw:可执行部署剧本",
+      "name": "可执行部署剧本",
+      "type": "keyword",
+      "category": "keyword",
+      "size": 500
+    },
+    {
+      "id": "kw:第三方模型接入",
+      "name": "第三方模型接入",
+      "type": "keyword",
+      "category": "keyword",
+      "size": 500
+    },
+    {
+      "id": "kw:Git 分支",
+      "name": "Git 分支",
+      "type": "keyword",
+      "category": "keyword",
+      "size": 500
+    },
+    {
+      "id": "kw:中间件",
+      "name": "中间件",
+      "type": "keyword",
+      "category": "keyword",
+      "size": 500
+    },
+    {
+      "id": "kw:分库分表",
+      "name": "分库分表",
+      "type": "keyword",
+      "category": "keyword",
+      "size": 500
+    },
+    {
+      "id": "kw:排障",
+      "name": "排障",
+      "type": "keyword",
+      "category": "keyword",
+      "size": 500
+    },
+    {
+      "id": "kw:飞书集成",
+      "name": "飞书集成",
+      "type": "keyword",
+      "category": "keyword",
+      "size": 500
+    },
+    {
+      "id": "kw:Mac 休眠",
+      "name": "Mac 休眠",
+      "type": "keyword",
+      "category": "keyword",
+      "size": 500
+    },
+    {
+      "id": "kw:Dubbo",
+      "name": "Dubbo",
+      "type": "keyword",
+      "category": "keyword",
+      "size": 500
+    },
+    {
+      "id": "kw:火山引擎 Coding Plan",
+      "name": "火山引擎 Coding Plan",
+      "type": "keyword",
+      "category": "keyword",
+      "size": 500
+    },
+    {
+      "id": "kw:Hermes Agent",
+      "name": "Hermes Agent",
+      "type": "keyword",
+      "category": "keyword",
+      "size": 1500
+    },
+    {
+      "id": "kw:Cron",
+      "name": "Cron",
+      "type": "keyword",
+      "category": "keyword",
+      "size": 500
+    },
+    {
+      "id": "kw:开发工具",
+      "name": "开发工具",
+      "type": "keyword",
+      "category": "keyword",
+      "size": 500
+    },
+    {
+      "id": "kw:ECharts",
+      "name": "ECharts",
+      "type": "keyword",
+      "category": "keyword",
+      "size": 500
+    },
+    {
+      "id": "kw:冲突解决",
+      "name": "冲突解决",
+      "type": "keyword",
+      "category": "keyword",
+      "size": 500
+    },
+    {
+      "id": "kw:知识图谱",
+      "name": "知识图谱",
+      "type": "keyword",
+      "category": "keyword",
+      "size": 500
+    },
+    {
+      "id": "kw:使用指南",
+      "name": "使用指南",
+      "type": "keyword",
+      "category": "keyword",
+      "size": 500
+    },
+    {
+      "id": "kw:知识库",
+      "name": "知识库",
+      "type": "keyword",
+      "category": "keyword",
+      "size": 500
+    },
+    {
+      "id": "kw:Redis",
+      "name": "Redis",
+      "type": "keyword",
+      "category": "keyword",
+      "size": 500
+    },
+    {
+      "id": "kw:v0.13.0",
+      "name": "v0.13.0",
+      "type": "keyword",
+      "category": "keyword",
+      "size": 500
+    },
+    {
+      "id": "kw:自定义代码迁移",
+      "name": "自定义代码迁移",
+      "type": "keyword",
+      "category": "keyword",
+      "size": 500
+    },
+    {
+      "id": "kw:DNS",
+      "name": "DNS",
+      "type": "keyword",
+      "category": "keyword",
+      "size": 500
+    },
+    {
+      "id": "kw:知识结构化",
+      "name": "知识结构化",
+      "type": "keyword",
+      "category": "keyword",
+      "size": 500
+    },
+    {
+      "id": "kw:HOS 平台",
+      "name": "HOS 平台",
+      "type": "keyword",
+      "category": "keyword",
+      "size": 500
+    },
+    {
+      "id": "kw:交互式知识系统",
+      "name": "交互式知识系统",
+      "type": "keyword",
+      "category": "keyword",
+      "size": 500
+    },
+    {
+      "id": "kw:个人知识管理",
+      "name": "个人知识管理",
+      "type": "keyword",
+      "category": "keyword",
+      "size": 500
+    },
+    {
+      "id": "kw:工程迁移",
+      "name": "工程迁移",
+      "type": "keyword",
+      "category": "keyword",
+      "size": 500
+    },
+    {
+      "id": "kw:集成",
+      "name": "集成",
+      "type": "keyword",
+      "category": "keyword",
+      "size": 500
+    },
+    {
+      "id": "kw:系统架构",
+      "name": "系统架构",
+      "type": "keyword",
+      "category": "keyword",
+      "size": 500
+    },
+    {
+      "id": "kw:Hermes LLM Wiki",
+      "name": "Hermes LLM Wiki",
+      "type": "keyword",
+      "category": "keyword",
+      "size": 500
+    },
+    {
+      "id": "kw:ZooKeeper",
+      "name": "ZooKeeper",
+      "type": "keyword",
+      "category": "keyword",
+      "size": 500
+    },
+    {
+      "id": "kw:Elasticsearch",
+      "name": "Elasticsearch",
+      "type": "keyword",
+      "category": "keyword",
+      "size": 500
+    },
+    {
+      "id": "kw:前端迁移",
+      "name": "前端迁移",
+      "type": "keyword",
+      "category": "keyword",
+      "size": 500
+    },
+    {
+      "id": "kw:RocketMQ",
+      "name": "RocketMQ",
+      "type": "keyword",
+      "category": "keyword",
+      "size": 500
+    },
+    {
+      "id": "kw:模型配置",
+      "name": "模型配置",
+      "type": "keyword",
+      "category": "keyword",
+      "size": 500
+    },
+    {
+      "id": "kw:面试",
+      "name": "面试",
+      "type": "keyword",
+      "category": "keyword",
+      "size": 500
+    },
+    {
+      "id": "kw:知识库搭建",
+      "name": "知识库搭建",
+      "type": "keyword",
+      "category": "keyword",
+      "size": 500
+    },
+    {
+      "id": "kw:配置",
+      "name": "配置",
+      "type": "keyword",
+      "category": "keyword",
+      "size": 500
+    },
+    {
+      "id": "kw:飞书",
+      "name": "飞书",
+      "type": "keyword",
+      "category": "keyword",
+      "size": 1000
+    },
+    {
+      "id": "kw:claude-code",
+      "name": "claude-code",
+      "type": "keyword",
+      "category": "keyword",
+      "size": 500
+    },
+    {
+      "id": "kw:Git分支管理",
+      "name": "Git分支管理",
+      "type": "keyword",
+      "category": "keyword",
+      "size": 500
+    },
+    {
+      "id": "kw:消息推送",
+      "name": "消息推送",
+      "type": "keyword",
+      "category": "keyword",
+      "size": 500
+    },
+    {
+      "id": "kw:macOS 部署",
+      "name": "macOS 部署",
+      "type": "keyword",
+      "category": "keyword",
+      "size": 1000
+    },
+    {
+      "id": "kw:路由配置",
+      "name": "路由配置",
+      "type": "keyword",
+      "category": "keyword",
+      "size": 500
+    },
+    {
+      "id": "kw:自动化知识管理",
+      "name": "自动化知识管理",
+      "type": "keyword",
+      "category": "keyword",
+      "size": 500
+    },
+    {
+      "id": "kw:定时任务",
+      "name": "定时任务",
+      "type": "keyword",
+      "category": "keyword",
+      "size": 500
+    },
+    {
+      "id": "kw:分布式缓存",
+      "name": "分布式缓存",
+      "type": "keyword",
+      "category": "keyword",
+      "size": 500
+    },
+    {
+      "id": "kw:LLM Wiki",
+      "name": "LLM Wiki",
+      "type": "keyword",
+      "category": "keyword",
+      "size": 1000
+    },
+    {
+      "id": "kw:LLM Wiki 自动化部署",
+      "name": "LLM Wiki 自动化部署",
+      "type": "keyword",
+      "category": "keyword",
+      "size": 500
+    },
+    {
+      "id": "kw:RPC框架",
+      "name": "RPC框架",
+      "type": "keyword",
+      "category": "keyword",
+      "size": 500
+    },
+    {
+      "id": "kw:消息队列",
+      "name": "消息队列",
+      "type": "keyword",
+      "category": "keyword",
+      "size": 500
+    },
+    {
+      "id": "kw:机器人",
+      "name": "机器人",
+      "type": "keyword",
+      "category": "keyword",
+      "size": 500
+    },
+    {
+      "id": "kw:JSON5",
+      "name": "JSON5",
+      "type": "keyword",
+      "category": "keyword",
+      "size": 500
+    },
+    {
+      "id": "kw:版本升级",
+      "name": "版本升级",
+      "type": "keyword",
+      "category": "keyword",
+      "size": 500
+    }
+  ],
+  "edges": [
+    {
+      "source": "Cron-定时任务配置与排障手册",
+      "target": "kw:Cron",
+      "relation": "contains",
+      "value": 1
+    },
+    {
+      "source": "Cron-定时任务配置与排障手册",
+      "target": "kw:定时任务",
+      "relation": "contains",
+      "value": 1
+    },
+    {
+      "source": "Cron-定时任务配置与排障手册",
+      "target": "kw:飞书",
+      "relation": "contains",
+      "value": 1
+    },
+    {
+      "source": "飞书集成配置指南",
+      "target": "kw:飞书",
+      "relation": "contains",
+      "value": 1
+    },
+    {
+      "source": "Cron-定时任务配置与排障手册",
+      "target": "kw:排障",
+      "relation": "contains",
+      "value": 1
+    },
+    {
+      "source": "Cron-定时任务配置与排障手册",
+      "target": "kw:Mac 休眠",
+      "relation": "contains",
+      "value": 1
+    },
+    {
+      "source": "Cron-定时任务配置与排障手册",
+      "target": "kw:DNS",
+      "relation": "contains",
+      "value": 1
+    },
+    {
+      "source": "LLM-Wiki-系统架构与使用说明",
+      "target": "kw:LLM Wiki",
+      "relation": "contains",
+      "value": 1
+    },
+    {
+      "source": "llm-wiki工作流程验证测试结论",
+      "target": "kw:LLM Wiki",
+      "relation": "contains",
+      "value": 1
+    },
+    {
+      "source": "LLM-Wiki-系统架构与使用说明",
+      "target": "kw:知识库",
+      "relation": "contains",
+      "value": 1
+    },
+    {
+      "source": "LLM-Wiki-系统架构与使用说明",
+      "target": "kw:系统架构",
+      "relation": "contains",
+      "value": 1
+    },
+    {
+      "source": "LLM-Wiki-系统架构与使用说明",
+      "target": "kw:使用指南",
+      "relation": "contains",
+      "value": 1
+    },
+    {
+      "source": "LLM-Wiki-系统架构与使用说明",
+      "target": "kw:知识图谱",
+      "relation": "contains",
+      "value": 1
+    },
+    {
+      "source": "claude-code-使用经验与配置指南",
+      "target": "kw:claude-code",
+      "relation": "contains",
+      "value": 1
+    },
+    {
+      "source": "claude-code-使用经验与配置指南",
+      "target": "kw:模型配置",
+      "relation": "contains",
+      "value": 1
+    },
+    {
+      "source": "claude-code-使用经验与配置指南",
+      "target": "kw:开发工具",
+      "relation": "contains",
+      "value": 1
+    },
+    {
+      "source": "claude-code-使用经验与配置指南",
+      "target": "kw:第三方模型接入",
+      "relation": "contains",
+      "value": 1
+    },
+    {
+      "source": "claude-code-使用经验与配置指南",
+      "target": "kw:JSON5",
+      "relation": "contains",
+      "value": 1
+    },
+    {
+      "source": "hermes-agent-llm-wiki-自动化部署可执行剧本（v3.0）",
+      "target": "kw:Hermes Agent",
+      "relation": "contains",
+      "value": 1
+    },
+    {
+      "source": "hermes-agent-v0.9.0-升级至-v0.13.0-完整执行指南",
+      "target": "kw:Hermes Agent",
+      "relation": "contains",
+      "value": 1
+    },
+    {
+      "source": "飞书集成配置指南",
+      "target": "kw:Hermes Agent",
+      "relation": "contains",
+      "value": 1
+    },
+    {
+      "source": "hermes-agent-llm-wiki-自动化部署可执行剧本（v3.0）",
+      "target": "kw:LLM Wiki 自动化部署",
+      "relation": "contains",
+      "value": 1
+    },
+    {
+      "source": "hermes-agent-llm-wiki-自动化部署可执行剧本（v3.0）",
+      "target": "kw:火山引擎 Coding Plan",
+      "relation": "contains",
+      "value": 1
+    },
+    {
+      "source": "hermes-agent-llm-wiki-自动化部署可执行剧本（v3.0）",
+      "target": "kw:可执行部署剧本",
+      "relation": "contains",
+      "value": 1
+    },
+    {
+      "source": "hermes-agent-llm-wiki-自动化部署可执行剧本（v3.0）",
+      "target": "kw:macOS 部署",
+      "relation": "contains",
+      "value": 1
+    },
+    {
+      "source": "macos-本地搭建-hermes-llm-wiki-知识库完整指南",
+      "target": "kw:macOS 部署",
+      "relation": "contains",
+      "value": 1
+    },
+    {
+      "source": "hermes-agent-v0.9.0-升级至-v0.13.0-完整执行指南",
+      "target": "kw:版本升级",
+      "relation": "contains",
+      "value": 1
+    },
+    {
+      "source": "hermes-agent-v0.9.0-升级至-v0.13.0-完整执行指南",
+      "target": "kw:v0.13.0",
+      "relation": "contains",
+      "value": 1
+    },
+    {
+      "source": "hermes-agent-v0.9.0-升级至-v0.13.0-完整执行指南",
+      "target": "kw:Git分支管理",
+      "relation": "contains",
+      "value": 1
+    },
+    {
+      "source": "hermes-agent-v0.9.0-升级至-v0.13.0-完整执行指南",
+      "target": "kw:冲突解决",
+      "relation": "contains",
+      "value": 1
+    },
+    {
+      "source": "hermes-agent-v0.9.0-升级至-v0.13.0-完整执行指南",
+      "target": "kw:自定义代码迁移",
+      "relation": "contains",
+      "value": 1
+    },
+    {
+      "source": "hos-platform-frontend-migration-guide",
+      "target": "kw:HOS 平台",
+      "relation": "contains",
+      "value": 1
+    },
+    {
+      "source": "hos-platform-frontend-migration-guide",
+      "target": "kw:前端迁移",
+      "relation": "contains",
+      "value": 1
+    },
+    {
+      "source": "hos-platform-frontend-migration-guide",
+      "target": "kw:工程迁移",
+      "relation": "contains",
+      "value": 1
+    },
+    {
+      "source": "hos-platform-frontend-migration-guide",
+      "target": "kw:Git 分支",
+      "relation": "contains",
+      "value": 1
+    },
+    {
+      "source": "hos-platform-frontend-migration-guide",
+      "target": "kw:ECharts",
+      "relation": "contains",
+      "value": 1
+    },
+    {
+      "source": "hos-platform-frontend-migration-guide",
+      "target": "kw:路由配置",
+      "relation": "contains",
+      "value": 1
+    },
+    {
+      "source": "llm-wiki工作流程验证测试结论",
+      "target": "kw:知识结构化",
+      "relation": "contains",
+      "value": 1
+    },
+    {
+      "source": "llm-wiki工作流程验证测试结论",
+      "target": "kw:自动化知识管理",
+      "relation": "contains",
+      "value": 1
+    },
+    {
+      "source": "macos-本地搭建-hermes-llm-wiki-知识库完整指南",
+      "target": "kw:Hermes LLM Wiki",
+      "relation": "contains",
+      "value": 1
+    },
+    {
+      "source": "macos-本地搭建-hermes-llm-wiki-知识库完整指南",
+      "target": "kw:知识库搭建",
+      "relation": "contains",
+      "value": 1
+    },
+    {
+      "source": "macos-本地搭建-hermes-llm-wiki-知识库完整指南",
+      "target": "kw:个人知识管理",
+      "relation": "contains",
+      "value": 1
+    },
+    {
+      "source": "macos-本地搭建-hermes-llm-wiki-知识库完整指南",
+      "target": "kw:交互式知识系统",
+      "relation": "contains",
+      "value": 1
+    },
+    {
+      "source": "macos-本地搭建-hermes-llm-wiki-知识库完整指南",
+      "target": "kw:飞书集成",
+      "relation": "contains",
+      "value": 1
+    },
+    {
+      "source": "中间件学习资料Wiki",
+      "target": "kw:中间件",
+      "relation": "contains",
+      "value": 1
+    },
+    {
+      "source": "中间件学习资料Wiki",
+      "target": "kw:面试",
+      "relation": "contains",
+      "value": 1
+    },
+    {
+      "source": "中间件学习资料Wiki",
+      "target": "kw:RocketMQ",
+      "relation": "contains",
+      "value": 1
+    },
+    {
+      "source": "中间件学习资料Wiki",
+      "target": "kw:Kafka",
+      "relation": "contains",
+      "value": 1
+    },
+    {
+      "source": "中间件学习资料Wiki",
+      "target": "kw:Dubbo",
+      "relation": "contains",
+      "value": 1
+    },
+    {
+      "source": "中间件学习资料Wiki",
+      "target": "kw:ZooKeeper",
+      "relation": "contains",
+      "value": 1
+    },
+    {
+      "source": "中间件学习资料Wiki",
+      "target": "kw:Redis",
+      "relation": "contains",
+      "value": 1
+    },
+    {
+      "source": "中间件学习资料Wiki",
+      "target": "kw:Elasticsearch",
+      "relation": "contains",
+      "value": 1
+    },
+    {
+      "source": "中间件学习资料Wiki",
+      "target": "kw:分布式缓存",
+      "relation": "contains",
+      "value": 1
+    },
+    {
+      "source": "中间件学习资料Wiki",
+      "target": "kw:消息队列",
+      "relation": "contains",
+      "value": 1
+    },
+    {
+      "source": "中间件学习资料Wiki",
+      "target": "kw:RPC框架",
+      "relation": "contains",
+      "value": 1
+    },
+    {
+      "source": "中间件学习资料Wiki",
+      "target": "kw:分库分表",
+      "relation": "contains",
+      "value": 1
+    },
+    {
+      "source": "飞书集成配置指南",
+      "target": "kw:集成",
+      "relation": "contains",
+      "value": 1
+    },
+    {
+      "source": "飞书集成配置指南",
+      "target": "kw:配置",
+      "relation": "contains",
+      "value": 1
+    },
+    {
+      "source": "飞书集成配置指南",
+      "target": "kw:机器人",
+      "relation": "contains",
+      "value": 1
+    },
+    {
+      "source": "飞书集成配置指南",
+      "target": "kw:消息推送",
+      "relation": "contains",
+      "value": 1
+    },
+    {
+      "source": "Cron-定时任务配置与排障手册",
+      "target": "飞书集成配置指南",
+      "relation": "related",
+      "value": 1,
+      "common_keywords": [
+        "飞书"
+      ]
+    },
+    {
+      "source": "LLM-Wiki-系统架构与使用说明",
+      "target": "llm-wiki工作流程验证测试结论",
+      "relation": "related",
+      "value": 1,
+      "common_keywords": [
+        "LLM Wiki"
+      ]
+    },
+    {
+      "source": "hermes-agent-llm-wiki-自动化部署可执行剧本（v3.0）",
+      "target": "hermes-agent-v0.9.0-升级至-v0.13.0-完整执行指南",
+      "relation": "related",
+      "value": 1,
+      "common_keywords": [
+        "Hermes Agent"
+      ]
+    },
+    {
+      "source": "hermes-agent-llm-wiki-自动化部署可执行剧本（v3.0）",
+      "target": "macos-本地搭建-hermes-llm-wiki-知识库完整指南",
+      "relation": "related",
+      "value": 1,
+      "common_keywords": [
+        "macOS 部署"
+      ]
+    },
+    {
+      "source": "hermes-agent-llm-wiki-自动化部署可执行剧本（v3.0）",
+      "target": "飞书集成配置指南",
+      "relation": "related",
+      "value": 1,
+      "common_keywords": [
+        "Hermes Agent"
+      ]
+    },
+    {
+      "source": "hermes-agent-v0.9.0-升级至-v0.13.0-完整执行指南",
+      "target": "飞书集成配置指南",
+      "relation": "related",
+      "value": 1,
+      "common_keywords": [
+        "Hermes Agent"
+      ]
+    }
+  ]
+}
